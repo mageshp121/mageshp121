@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=mageshp121&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)<br>
 <br>
 <br>📫 How to reach me mageshp121@gmail.com<br><br>
-<a><img src="https://skillicons.dev/icons?i=go,html,js,bash,css" />
+<a><img src="https://skillicons.dev/icons?i=nodejs,html,js,bash,css" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=mysql,postgres,bootstrap" />
 <a/> <br/>
